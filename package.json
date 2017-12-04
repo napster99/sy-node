@@ -1,0 +1,15 @@
+{
+  "name": "sy-node",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "sy-node" : "./bin/sy-node.js",
+      "snode" : "./bin/sy-node.js"
+   },
+  "author": "Napster",
+  "license": "ISC"
+}
