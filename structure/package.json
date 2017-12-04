@@ -1,0 +1,48 @@
+{
+  "name": "node_c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "co-body": "^4.2.0",
+    "crypto": "0.0.3",
+    "istanbul": "^0.4.5",
+    "koa": "^1.2.1",
+    "koa-bodyparser": "^2.2.0",
+    "koa-gzip": "^0.1.0",
+    "koa-jsonp": "^2.0.2",
+    "koa-route": "^2.4.2",
+    "koa-static": "^2.0.0",
+    "mysql": "^2.11.1",
+    "redis": "^2.6.2",
+    "request": "^2.74.0",
+    "supertest": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "@alicloud/ots2": "^1.5.3",
+    "aliyun-sdk": "^1.10.12",
+    "async": "^2.0.1",
+    "co": "^4.6.0",
+    "co-redis": "^2.1.1",
+    "crypto": "0.0.3",
+    "fingerprint-container-node-sdk": "^0.1.11",
+    "getmac": "^1.2.1",
+    "ioredis": "^2.4.3",
+    "koa-bodyparser": "^2.2.0",
+    "koa-cors": "0.0.16",
+    "koa-gzip": "^0.1.0",
+    "koa-jsonp": "^2.0.2",
+    "log4js": "^2.3.3",
+    "moment": "^2.17.1",
+    "qr-image": "^3.2.0",
+    "redis": "^2.6.2",
+    "request": "^2.81.0",
+    "weixin-pay": "^1.1.7"
+  }
+}
