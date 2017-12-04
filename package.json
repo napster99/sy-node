@@ -11,5 +11,6 @@
       "snode" : "./bin/sy-node.js"
    },
   "author": "Napster",
+  "github":"https://github.com/napster99/sy-node",
   "license": "ISC"
 }
