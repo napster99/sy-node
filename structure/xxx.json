@@ -1,0 +1,13 @@
+[
+  {
+    "name": "XXX",
+    "script": "app.js",
+    "env": {
+      "APP_ENV" : "master",
+      "PORT" : "3999"
+    },
+    "cwd": "/app/data/XXX/XXX",
+    "one_launch_only": "true",
+    "max_memory_restart": "1000M"
+  }
+]
