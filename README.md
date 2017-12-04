@@ -11,7 +11,7 @@
 
 ## 创建项目
 
-    sy-node init xxxx //创建xxxx项目
+    sy-node | snode init xxxx //创建xxxx项目
   
 
 
