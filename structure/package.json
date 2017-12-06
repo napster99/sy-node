@@ -1,8 +1,8 @@
 {
-  "name": "node_c",
+  "name": "xxxx",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,8 +25,6 @@
     "underscore": "^1.8.3"
   },
   "dependencies": {
-    "@alicloud/ots2": "^1.5.3",
-    "aliyun-sdk": "^1.10.12",
     "async": "^2.0.1",
     "co": "^4.6.0",
     "co-redis": "^2.1.1",
@@ -42,7 +40,6 @@
     "moment": "^2.17.1",
     "qr-image": "^3.2.0",
     "redis": "^2.6.2",
-    "request": "^2.81.0",
-    "weixin-pay": "^1.1.7"
+    "request": "^2.81.0"
   }
 }

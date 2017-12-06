@@ -16,17 +16,17 @@
 
 
   ├───package.json  
-  └───public/  
-  └───controllers/  
-  └───routes/  
-  └───services/  
-  └───models/    
-  └───tests/  
-  └───middlewares/  
-  └───public/  
-  └───config/  
-  └───bin/  
-  └───README.md/  
+  ├───public/  
+  ├───controllers/  
+  ├───routes/  
+  ├───services/  
+  ├───models/    
+  ├───tests/  
+  ├───middlewares/  
+  ├───public/  
+  ├───config/  
+  ├───bin/  
+  ├───README.md/  
   ├───app.js  
-  ├───xxxx.json (pm2 start config file)  
+  └───xxxx.json (pm2 start config file)  
   
