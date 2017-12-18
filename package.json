@@ -1,16 +1,19 @@
 {
   "name": "sy-node",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-      "sy-node" : "./bin/sy-node.js",
-      "snode" : "./bin/sy-node.js"
-   },
+    "sy-node": "./bin/sy-node.js",
+    "snode": "./bin/sy-node.js"
+  },
   "author": "Napster",
-  "github":"https://github.com/napster99/sy-node",
-  "license": "ISC"
+  "github": "https://github.com/napster99/sy-node",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
